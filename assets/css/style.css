@@ -1,0 +1,100 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar-nav {
+flex: 1;
+margin: auto !important;
+display: flex;
+justify-content: space-between;
+}
+
+.navbar-nav .nav-link{
+  color: #3036CC !important;
+}
+
+.hello{
+  color: #3036CC;
+}
+
+.button .btn{
+  background: #3036CC;
+}
+
+.button .text{
+  color: #3036CC;
+}
+
+.head{
+  color: #3036CC;
+  font-weight: bold;
+}
+
+.about{
+  background: rgba(74, 122, 255, 0.02);
+}
+
+
+.about .text{
+  margin-top: 180px;
+}
+
+.gallery img{
+  width: 330px !important;
+  height: 450px !important;
+  padding: 15px;
+}
+
+.carousel-indicators :active{
+  color: #3036CC !important;
+}
+
+.carousel-inner .boxx{
+  width: 1000px !important;
+  margin: 30px;
+  color: #3036CC;
+}
+
+.carousel-inner .box{
+  width: 1000px !important;
+  margin: 30px;
+  color: #3036CC;
+}
+
+.carousel-inner .boxx .d-inline-block{
+  color: #000;
+}
+
+.carousel-inner .box .d-inline-block{
+  color: #000;
+}
+
+.mapx{
+  position: relative;
+}
+
+#map {
+  height: 500px;
+}
+
+.form{
+  width: 350px;
+  padding: 20px;
+  position: absolute;
+  bottom: 20%;
+  right: 15%;
+  background: #fff;
+}
+
+.form .btn{
+  background: #3036CC;
+  color: #fff;
+  width: 100px;
+}
+
+.btm .left{
+  width: 100px !important;
+}
+
